@@ -1,6 +1,6 @@
 # **Privacy Policy**
 
-konichiwa.inc ("we", "us") built the “ТЕСТ УГАДАЙ АНИМЕ” app as a Free app. This SERVICE
+konichiwa.inc ("we", "us") built the “Тест угадай аниме по кадру” app as a Free app. This SERVICE
 is provided by konichiwa.inc at no cost and is intended for use as is. 
 This page is used to inform visitors regarding our policies with the collection, use, and
 disclosure of Personal Information if anyone decided to use our Service.
@@ -19,8 +19,7 @@ on your device and is not collected by us in any way.
 The app does use third-party services that may collect information used to identify you.
 
 Links to privacy policies of third-party service providers used by the app: 
-*   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+*   Unity Ads
 
 **Log Data**
 
